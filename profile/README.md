@@ -1,1 +1,1 @@
-![Alt text](https://github.com/xpresserjs/.github/raw/main/profile/docs_v2.png "Xpresser Logo")
+![Alt text](https://github.com/xpresserjs/.github/raw/main/profile/docs_v2_preview.png "Xpresser Logo")
