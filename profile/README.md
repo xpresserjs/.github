@@ -1,1 +1,1 @@
-![Alt text](./docs_v2.png "Xpresser Logo")
+![Alt text](./docs_v2_1.png "Xpresser Logo")
