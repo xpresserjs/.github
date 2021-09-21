@@ -1,2 +1,1 @@
-# .github
-Our Special Repository :)
+![Alt text](./docs_v2.png "Xpresser Logo")
